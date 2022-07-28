@@ -1,0 +1,3 @@
+npm packages:
+- npm i colors
+- npm install --save inquirer@^8.0.0
